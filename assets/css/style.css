@@ -71,7 +71,7 @@ section {
 }
 
 .hero {
-    background-image: url("C:/Users/Keith/Desktop/projects/run-buddy/assets/images/hero-bg.jpg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
