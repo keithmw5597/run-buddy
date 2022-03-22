@@ -77,21 +77,6 @@ section {
     background-position: center;
     position: relative;
 }
-.start-building h1{
-    font-weight: bold;
-    font-size: 42px;
-    color: #fce138;
-    margin: 0;
-    display: inline;
-    font-style: italic;
-    right: 250px;
-    font-display: wrap;
-}
-.start-building p {
-    color: white;
-    padding: 20px;
-    width: 500px;
-}
 
 .hero-form {
     border: solid 3px #024e76;
